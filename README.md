@@ -4,6 +4,7 @@ Introduction
 
  TABLE VIEW
    1,  Cleaning
+   
  REPORT VIEW
     1,  Visualization
     2,  Table & Matrix
